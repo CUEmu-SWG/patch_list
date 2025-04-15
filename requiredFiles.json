@@ -1,0 +1,134 @@
+{
+	"downloadableFiles": [
+		{
+			"filename": "bottom.tre",
+			"md5Checksum": "63C2D21719ED56D96B70373D99CC94D6",
+			"fileSizeBytes": 16205884
+		},
+		{
+			"filename": "data_animation_00.tre",
+			"md5Checksum": "1AE26649AF2C30EFE317850C4CB1A4BD",
+			"fileSizeBytes": 58966791
+		},
+		{
+			"filename": "data_music_00.tre",
+			"md5Checksum": "88EE64F7E334616FBF688B09022E81DF",
+			"fileSizeBytes": 77322894
+		},
+		{
+			"filename": "data_other_00.tre",
+			"md5Checksum": "59CB600A9AF908B98D8D1C8934EC932B",
+			"fileSizeBytes": 46546173
+		},
+		{
+			"filename": "data_sample_00.tre",
+			"md5Checksum": "C96A2EB77F27B6453053F0820B38AB7C",
+			"fileSizeBytes": 104636589
+		},
+		{
+			"filename": "data_sample_01.tre",
+			"md5Checksum": "9C0C272400DD2780ADDD9A8E25334FBF",
+			"fileSizeBytes": 104848649
+		},
+		{
+			"filename": "data_sample_02.tre",
+			"md5Checksum": "52A3CC6829DF957C9D72ECCC1B23CAD2",
+			"fileSizeBytes": 104806646
+		},
+		{
+			"filename": "data_sample_03.tre",
+			"md5Checksum": "2947689850819A256171547AF1A300D1",
+			"fileSizeBytes": 104479178
+		},
+		{
+			"filename": "data_sample_04.tre",
+			"md5Checksum": "A22F0C8C8F4B6104647AF628579CC0E3",
+			"fileSizeBytes": 33887496
+		},
+		{
+			"filename": "data_skeletal_mesh_00.tre",
+			"md5Checksum": "ECDAEFC123971D167159698F0F47ACA4",
+			"fileSizeBytes": 104259690
+		},
+		{
+			"filename": "data_skeletal_mesh_01.tre",
+			"md5Checksum": "F39551AE0BDA6B2EE0BC4C954FCD3699",
+			"fileSizeBytes": 42575909
+		},
+		{
+			"filename": "data_static_mesh_00.tre",
+			"md5Checksum": "EC1FA71AF211FCF1CD86F5AA8752283A",
+			"fileSizeBytes": 104681322
+		},
+		{
+			"filename": "data_static_mesh_01.tre",
+			"md5Checksum": "D453B7F6F562368A4D06A3F9FD4E8339",
+			"fileSizeBytes": 94719985
+		},
+		{
+			"filename": "data_texture_00.tre",
+			"md5Checksum": "6C8C538D209F5BD428BC9DA194EBD30D",
+			"fileSizeBytes": 104816351
+		},
+		{
+			"filename": "data_texture_01.tre",
+			"md5Checksum": "740124B213B92A16907A0FBAAD0FA130",
+			"fileSizeBytes": 104831553
+		},
+		{
+			"filename": "data_texture_02.tre",
+			"md5Checksum": "9D5DDA098C258BB5CAA84A610715D834",
+			"fileSizeBytes": 104923301
+		},
+		{
+			"filename": "data_texture_03.tre",
+			"md5Checksum": "636C5D29046F354C8A118B3C96285084",
+			"fileSizeBytes": 104659874
+		},
+		{
+			"filename": "data_texture_04.tre",
+			"md5Checksum": "80057E761DC219250B9319E61F10BA91",
+			"fileSizeBytes": 104887073
+		},
+		{
+			"filename": "data_texture_05.tre",
+			"md5Checksum": "FE62A811E86F38A21080B02782C9E662",
+			"fileSizeBytes": 104820008
+		},
+		{
+			"filename": "data_texture_06.tre",
+			"md5Checksum": "968D2CAFBA5A4C5FCEDBEEBA7A8C4D20",
+			"fileSizeBytes": 104773001
+		},
+		{
+			"filename": "data_texture_07.tre",
+			"md5Checksum": "C77F34FFA2C15663679F1AA86C43A3D5",
+			"fileSizeBytes": 66226334
+		},
+		{
+			"filename": "dbghelp.dll",
+			"md5Checksum": "21E77BCBE81C83284AEEA5127C197718",
+			"fileSizeBytes": 676864
+		},
+		{
+			"filename": "default_patch.tre",
+			"md5Checksum": "907194CD54EFD6820C84DB37C47DFE2D",
+			"fileSizeBytes": 60331
+		},
+		{
+			"filename": "patch_00.tre",
+			"md5Checksum": "1517A0A0E7E11C5D1AFC43C1B404A045",
+			"fileSizeBytes": 18779819
+		},
+		{
+			"filename": "patch_01.tre",
+			"md5Checksum": "36FD18E8342B23AE2DF51B916324F348", 
+			"fileSizeBytes": 17757229
+		},
+		{
+			"filename": "qt-mt305.dll",
+			"md5Checksum": "4ACAAA87F1CBB840E266B2360C6E1FE0",
+			"fileSizeBytes": 3563520
+		}
+	]
+}
