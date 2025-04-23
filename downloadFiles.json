@@ -1,37 +1,184 @@
 {
-  "miles": {
-      "mssdsp.flt": "https://www.dropbox.com/scl/fi/29h2y1n79n2mkx9uuvnnp/mssdsp.flt?rlkey=v93vq2t8sqgqwjf4k90wp1y17&st=2muouye6&dl=1",
-      "Msseax.m3d": "https://www.dropbox.com/scl/fi/usolwozdxuk2suv1x5cwq/Msseax.m3d?rlkey=xesi1rqk8c1w0ae64m4ztrcqu&st=7s51tpfb&dl=1",
-      "mssmp3.asi": "https://www.dropbox.com/scl/fi/8kr90froek24uq15l7zkm/mssmp3.asi?rlkey=quha776cm7oy886j37j33e7dv&st=plf3mrnh&dl=1",
-      "msssoft.m3d": "https://www.dropbox.com/scl/fi/mbusn5yu04192jjzy1dlb/msssoft.m3d?rlkey=utka8blqby7t1m27ilaobh39y&st=af3hrewx&dl=1"
-  },
-  "base": {
-      "binkw32.dll": "https://www.dropbox.com/scl/fi/5wrmis22jjhunu36hoy6r/binkw32.dll?rlkey=z733ds6t720z6v55cdz9366em&st=34ljfipd&dl=1",
-      "client.cfg": "https://www.dropbox.com/scl/fi/uexe051yo9onnladpo159/client.cfg?rlkey=69wn8vxjnmrjalnfgkobi10ug&st=7sj5m4xq&dl=1",
-      "dbghelp_6.3.17.0.dll": "https://www.dropbox.com/scl/fi/m5zboq3n8xgpzs4jjfvwt/dbghelp_6.3.17.0.dll?rlkey=xslqpxocyrf3gf95q6lkaqxq5&st=tpsubvha&dl=1",
-      "dpvs.dll": "https://www.dropbox.com/scl/fi/zs0dvt8smgke4jcdr47nm/dpvs.dll?rlkey=0mencv2wclrnbkr9xcg06mydc&st=jan4yfqi&dl=1",
-      "gl05_r.dll": "https://www.dropbox.com/scl/fi/7kgk823i8r1bor9dxp0tz/gl05_r.dll?rlkey=o36gg1bym98nub7os1u5ew1ep&st=m3ii0l73&dl=1",
-      "gl06_r.dll": "https://www.dropbox.com/scl/fi/wz209lghopwh7kvc8yngj/gl06_r.dll?rlkey=5apy5zt1httfxovmxzaxo3znt&st=xpmitg86&dl=1",
-      "gl07_r.dll": "https://www.dropbox.com/scl/fi/v2gm6eley0dbu9nv0im8x/gl07_r.dll?rlkey=cocvzqeyivv9ysxc6ibfmvcdt&st=j8zrbf2m&dl=1",
-      "launcher.cfg": "https://www.dropbox.com/scl/fi/s2l02950uyxgqfr5k9zqg/launcher.cfg?rlkey=0qiy7nlec1i8fbrjrb7j3phuz&st=04f6elga&dl=1",
-      "live.cfg": "https://www.dropbox.com/scl/fi/kl3m5j4p1vavoyyxv713o/live.cfg?rlkey=7ueaurf4xeq1jnoxe4jf1fn47&st=ytv3ljzs&dl=1",
-      "login.cfg": "https://www.dropbox.com/scl/fi/muwmcm4z2kaumxvxygcsg/login.cfg?rlkey=grdjygv2ii5mm3qtxgz9gw32y&st=ssdt1i4j&dl=1",
-      "Mss32.dll": "https://www.dropbox.com/scl/fi/3a6jcq6fyqcelcrrw7jdp/Mss32.dll?rlkey=64el4uqfsr5b3734db1l6k324&st=tph9i4hh&dl=1",
-      "options.cfg": "https://www.dropbox.com/scl/fi/28u3n8sx1ab2n367bzzqe/options.cfg?rlkey=4txieva7y8c63m2zd5yr0wzz9&st=px7bv793&dl=1",
-      "preload.cfg": "https://www.dropbox.com/scl/fi/l1mo7lopqxz2r2x5baz5j/preload.cfg?rlkey=j4v02wl4wufyzsnist7jln61s&st=s71qc1wz&dl=1",
-      "SwgClient_r.exe": "https://www.dropbox.com/scl/fi/nexokpac8u3yqdm3dybt9/SwgClient_r.exe?rlkey=cbq9pnijm54pc88ydmg5ceu65&st=84prmr70&dl=1",
-      "SwgClientSetup_r.exe": "https://www.dropbox.com/scl/fi/7689hnjxefvj3qiamkzoi/SwgClientSetup_r.exe?rlkey=d9jcmhzjlsajd65hkd49fq2fh&st=plh2bh8i&dl=1",
-      "unicows.dll": "https://www.dropbox.com/scl/fi/0asbppmwl28jcdcqcmofh/unicows.dll?rlkey=ye5p1cn6shzhcqbcskcu641bb&st=n1mzwnf8&dl=1"
-  },
-	"cuemu": {
-	  "cuemu_appearance.tre": "https://www.dropbox.com/scl/fi/kp81q78kvsg9isfrwkc7p/cuemu_appearance.tre?rlkey=jbkalvc46a5fv8n6wbz7a4hf8&st=0c81m58b&dl=1",
-	  "cuemu_audio.tre": "https://www.dropbox.com/scl/fi/jk2y5kv446jzvzg601xsc/cuemu_audio.tre?rlkey=xu6pdh969fq2jka962ls3zy7z&st=bv79jht7&dl=1",
-	  "cuemu_other.tre": "https://www.dropbox.com/scl/fi/5mgcjl2o9rbae4hy6a1wt/cuemu_other.tre?rlkey=h0h5mlw5cffdt1rthplnoh6ga&st=b0i9lo77&dl=1",
-	  "cuemu_texture1.tre": "https://www.dropbox.com/scl/fi/7210jeddnth5nq4kpuc3g/cuemu_texture1.tre?rlkey=jpvwy1uecgg1p6ctx1hgk4cn3&st=rb14gwav&dl=1",
-	  "cuemu_texture2.tre": "https://www.dropbox.com/scl/fi/aq99rsrwomwd7s1d6o1sg/cuemu_texture2.tre?rlkey=8otcc39m1ga41w1rf6uiy10er&st=x61x0e0q&dl=1",
-	  "cuemu_patch1.tre": "https://www.dropbox.com/scl/fi/65g75fu57qnikrxsj3f3b/cuemu_patch1.tre?rlkey=eoaln4wo8e2gltxc0lucy5mv6&st=r44tgoj6&dl=1"
-	},
-	"ifNotExist": {
-	    "local_machine_options.iff": "https://www.dropbox.com/scl/fi/53pbdmkkbhy5ktzcrg9h0/local_machine_options.iff?rlkey=72uhwsmkj85u6mrhyrc9gyyzl&st=xk5a5nyb&dl=1"
-	}
+	"downloadFiles": [
+		{
+			"filename": "preload.cfg",
+			"md5Checksum": "0AFEDDC346EDFB136BF55315F002F45A",
+			"fileSizeBytes": 2018,
+			"fileUrl": "https://www.dropbox.com/scl/fi/l1mo7lopqxz2r2x5baz5j/preload.cfg?rlkey=j4v02wl4wufyzsnist7jln61s&st=s71qc1wz&dl=1"
+		},
+		{
+			"filename": "unicows.dll",
+			"md5Checksum": "D80C93AF261260ACD6D12BDEB9410B4A",
+			"fileSizeBytes": 218112,
+			"fileUrl": "https://www.dropbox.com/scl/fi/0asbppmwl28jcdcqcmofh/unicows.dll?rlkey=ye5p1cn6shzhcqbcskcu641bb&st=n1mzwnf8&dl=1"
+		},
+		{
+			"filename": "cuemu_patch1.tre",
+			"md5Checksum": "EACDBB4CA68F01E794141220B88F9662",
+			"fileSizeBytes": 3158718,
+			"fileUrl": "https://www.dropbox.com/scl/fi/65g75fu57qnikrxsj3f3b/cuemu_patch1.tre?rlkey=eoaln4wo8e2gltxc0lucy5mv6&st=r44tgoj6&dl=1"
+		},
+		{
+			"filename": "Mss32.dll",
+			"md5Checksum": "E2596124110136BE42052D87DA31DC25",
+			"fileSizeBytes": 374272,
+			"fileUrl": "https://www.dropbox.com/scl/fi/3a6jcq6fyqcelcrrw7jdp/Mss32.dll?rlkey=64el4uqfsr5b3734db1l6k324&st=tph9i4hh&dl=1"
+		},
+		{
+			"filename": "dpvs.dll",
+			"md5Checksum": "FD25C516087EDBA23F1F403A65769240",
+			"fileSizeBytes": 142336,
+			"fileUrl": "https://www.dropbox.com/scl/fi/zs0dvt8smgke4jcdr47nm/dpvs.dll?rlkey=0mencv2wclrnbkr9xcg06mydc&st=jan4yfqi&dl=1"
+		},
+		{
+			"filename": "cuemu_other.tre",
+			"md5Checksum": "B0773B62FC97F1A93C0A3DA7D43ADF57",
+			"fileSizeBytes": 84388616,
+			"fileUrl": "https://www.dropbox.com/scl/fi/5mgcjl2o9rbae4hy6a1wt/cuemu_other.tre?rlkey=h0h5mlw5cffdt1rthplnoh6ga&st=b0i9lo77&dl=1"
+		},
+		{
+			"filename": "cuemu_texture1.tre",
+			"md5Checksum": "7C4C719A892D846FC5CD32E64B4C5107",
+			"fileSizeBytes": 713443169,
+			"fileUrl": "https://www.dropbox.com/scl/fi/7210jeddnth5nq4kpuc3g/cuemu_texture1.tre?rlkey=jpvwy1uecgg1p6ctx1hgk4cn3&st=rb14gwav&dl=1"
+		},
+		{
+			"filename": "gl07_r.dll",
+			"md5Checksum": "7C2B54D3A828BBAEB989E25DD4373E70",
+			"fileSizeBytes": 1634390,
+			"fileUrl": "https://www.dropbox.com/scl/fi/v2gm6eley0dbu9nv0im8x/gl07_r.dll?rlkey=cocvzqeyivv9ysxc6ibfmvcdt&st=j8zrbf2m&dl=1"
+		},
+		{
+			"filename": "gl06_r.dll",
+			"md5Checksum": "CD96EC4C4059548C15FB1E85D5816AD1",
+			"fileSizeBytes": 1622101,
+			"fileUrl": "https://www.dropbox.com/scl/fi/wz209lghopwh7kvc8yngj/gl06_r.dll?rlkey=5apy5zt1httfxovmxzaxo3znt&st=xpmitg86&dl=1"
+		},
+		{
+			"filename": "binkw32.dll",
+			"md5Checksum": "9899A96606EFDD1089AB649B7EA9FD70",
+			"fileSizeBytes": 192512,
+			"fileUrl": "https://www.dropbox.com/scl/fi/5wrmis22jjhunu36hoy6r/binkw32.dll?rlkey=z733ds6t720z6v55cdz9366em&st=34ljfipd&dl=1"
+		},
+		{
+			"filename": "qt-mt305.dll",
+			"md5Checksum": "4ACAAA87F1CBB840E266B2360C6E1FE0",
+			"fileSizeBytes": 3563520,
+			"fileUrl": "https://www.dropbox.com/scl/fi/3v9kfhqf8e0s4jxt9u4tx/qt-mt305.dll?rlkey=0c2kn0ts70bsf4rbz6u4nkaxz&st=m35m18b&dl=1"
+		},
+		{
+			"filename": "cuemu_appearance.tre",
+			"md5Checksum": "DA2ED06B767061A21EA84018493AA854",
+			"fileSizeBytes": 862463793,
+			"fileUrl": "https://www.dropbox.com/scl/fi/kp81q78kvsg9isfrwkc7p/cuemu_appearance.tre?rlkey=jbkalvc46a5fv8n6wbz7a4hf8&st=0c81m58b&dl=1"
+		},
+		{
+			"filename": "user.cfg",
+			"md5Checksum": "E9286722038CF4138CFB4CE5B0B4CB75",
+			"fileSizeBytes": 226,
+			"fileUrl": "https://www.dropbox.com/scl/fi/uexe051yo9onnladpo159/client.cfg?rlkey=69wn8vxjnmrjalnfgkobi10ug&st=7sj5m4xq&dl=1"
+		},
+		{
+			"filename": "options.cfg",
+			"md5Checksum": "E40B7F8E4F424BC270540CEDF10CB48A",
+			"fileSizeBytes": 548,
+			"fileUrl": "https://www.dropbox.com/scl/fi/28u3n8sx1ab2n367bzzqe/options.cfg?rlkey=4txieva7y8c63m2zd5yr0wzz9&st=px7bv793&dl=1"
+		},
+		{
+			"filename": "gl05_r.dll",
+			"md5Checksum": "444BFD503D300DED452C4C99D299A91C",
+			"fileSizeBytes": 1650769,
+			"fileUrl": "https://www.dropbox.com/scl/fi/7kgk823i8r1bor9dxp0tz/gl05_r.dll?rlkey=o36gg1bym98nub7os1u5ew1ep&st=m3ii0l73&dl=1"
+		},
+		{
+			"filename": "SwgClientSetup_r.exe",
+			"md5Checksum": "92E27EA1482945052A6E1B005FBFCEA3",
+			"fileSizeBytes": 557056,
+			"fileUrl": "https://www.dropbox.com/scl/fi/7689hnjxefvj3qiamkzoi/SwgClientSetup_r.exe?rlkey=d9jcmhzjlsajd65hkd49fq2fh&st=plh2bh8i&dl=1"
+		},
+		{
+			"filename": "cuemu_audio.tre",
+			"md5Checksum": "0EF42F151360011CAD76BB0E59A06F40",
+			"fileSizeBytes": 879050250,
+			"fileUrl": "https://www.dropbox.com/scl/fi/jk2y5kv446jzvzg601xsc/cuemu_audio.tre?rlkey=xu6pdh969fq2jka962ls3zy7z&st=bv79jht7&dl=1"
+		},
+		{
+			"filename": "client.cfg",
+			"md5Checksum": "ED7F6266790805F529FFFBF2F1BAFC05",
+			"fileSizeBytes": 137,
+			"fileUrl": "https://www.dropbox.com/scl/fi/uexe051yo9onnladpo159/client.cfg?rlkey=69wn8vxjnmrjalnfgkobi10ug&st=7sj5m4xq&dl=1"
+		},
+		{
+			"filename": "local_machine_options.iff",
+			"md5Checksum": "765B0A1AB5CDCA5961A9C37DD58F92B9",
+			"fileSizeBytes": 7543,
+			"fileUrl": "https://www.dropbox.com/scl/fi/53pbdmkkbhy5ktzcrg9h0/local_machine_options.iff?rlkey=72uhwsmkj85u6mrhyrc9gyyzl&st=xk5a5nyb&dl=1"
+		},
+		{
+			"filename": "cuemu_texture2.tre",
+			"md5Checksum": "EB0C4FAA99874F06837FB2725E7DC4AE",
+			"fileSizeBytes": 898856239,
+			"fileUrl": "https://www.dropbox.com/scl/fi/aq99rsrwomwd7s1d6o1sg/cuemu_texture2.tre?rlkey=8otcc39m1ga41w1rf6uiy10er&st=x61x0e0q&dl=1"
+		},
+		{
+			"filename": "live.cfg",
+			"md5Checksum": "FDA932B04F36F411140E1E3DA24D409C",
+			"fileSizeBytes": 559,
+			"fileUrl": "https://www.dropbox.com/scl/fi/kl3m5j4p1vavoyyxv713o/live.cfg?rlkey=7ueaurf4xeq1jnoxe4jf1fn47&st=ytv3ljzs&dl=1"
+		},
+		{
+			"filename": "login.cfg",
+			"md5Checksum": "3EC0BD122086D36B3CF03BE9C337B0AB",
+			"fileSizeBytes": 76,
+			"fileUrl": "https://www.dropbox.com/scl/fi/muwmcm4z2kaumxvxygcsg/login.cfg?rlkey=grdjygv2ii5mm3qtxgz9gw32y&st=ssdt1i4j&dl=1"
+		},
+		{
+			"filename": "dbghelp.dll",
+			"md5Checksum": "21E77BCBE81C83284AEEA5127C197718",
+			"fileSizeBytes": 676864,
+			"fileUrl": "https://www.dropbox.com/scl/fi/8kr90froek24uq15l7zkm/mssmp3.asi?rlkey=quha776cm7oy886j37j33e7dv&st=plf3mrnh&dl=1"
+		},
+		{
+			"filename": "launcher.cfg",
+			"md5Checksum": "F1B565B5B789B8097F9BC3C41902DC23",
+			"fileSizeBytes": 40,
+			"fileUrl": "https://www.dropbox.com/scl/fi/s2l02950uyxgqfr5k9zqg/launcher.cfg?rlkey=0qiy7nlec1i8fbrjrb7j3phuz&st=04f6elga&dl=1"
+		},
+		{
+			"filename": "SwgClient_r.exe",
+			"md5Checksum": "A5191E497736E1DE2ECD1B7EFA7EFE1C",
+			"fileSizeBytes": 23502934,
+			"fileUrl": "https://www.dropbox.com/scl/fi/nexokpac8u3yqdm3dybt9/SwgClient_r.exe?rlkey=cbq9pnijm54pc88ydmg5ceu65&st=84prmr70&dl=1"
+		},
+		{
+			"filename": "dbghelp_6.3.17.0.dll",
+			"md5Checksum": "5C350D0C2B331B342D52D1155A4C160E",
+			"fileSizeBytes": 940032,
+			"fileUrl": "https://www.dropbox.com/scl/fi/m5zboq3n8xgpzs4jjfvwt/dbghelp_6.3.17.0.dll?rlkey=xslqpxocyrf3gf95q6lkaqxq5&st=tpsubvha&dl=1"
+		},
+		{
+			"filename": "mssdsp.flt",
+			"md5Checksum": "B88BF9C506CD612FC37B47AD2E1C84B6",
+			"fileSizeBytes": 115200,
+			"fileUrl": "https://www.dropbox.com/scl/fi/29h2y1n79n2mkx9uuvnnp/mssdsp.flt?rlkey=v93vq2t8sqgqwjf4k90wp1y17&st=2muouye6&dl=1"
+		},
+		{
+			"filename": "Msseax.m3d",
+			"md5Checksum": "B24028B6511FA3CB96BCBF1EF2838696",
+			"fileSizeBytes": 115712,
+			"fileUrl": "https://www.dropbox.com/scl/fi/usolwozdxuk2suv1x5cwq/Msseax.m3d?rlkey=xesi1rqk8c1w0ae64m4ztrcqu&st=7s51tpfb&dl=1"
+		},
+		{
+			"filename": "mssmp3.asi",
+			"md5Checksum": "43BFC9015CF90C161567FB0C0ACAF714",
+			"fileSizeBytes": 137216,
+			"fileUrl": "https://www.dropbox.com/scl/fi/8kr90froek24uq15l7zkm/mssmp3.asi?rlkey=quha776cm7oy886j37j33e7dv&st=plf3mrnh&dl=1"
+		},
+		{
+			"filename": "msssoft.m3d",
+			"md5Checksum": "3E9029826D8CB962874584AB795A9D31",
+			"fileSizeBytes": 77824,
+			"fileUrl": "https://www.dropbox.com/scl/fi/mbusn5yu04192jjzy1dlb/msssoft.m3d?rlkey=utka8blqby7t1m27ilaobh39y&st=af3hrewx&dl=1"
+		}
+	]
 }
