@@ -32,12 +32,6 @@
 			"fileUrl": "http://cuemucdl.cuemu.com/launcher/client.cfg"
 		},
 		{
-			"filename": "cuemu-4-27.25.zip",
-			"fileSizeBytes": 3434318843,
-			"md5Checksum": "1396A595C17278C798E22CAB69FD1938",
-			"fileUrl": "http://cuemucdl.cuemu.com/launcher/cuemu-4-27.25.zip"
-		},
-		{
 			"filename": "cuemu_appearance.tre",
 			"fileSizeBytes": 862463793,
 			"md5Checksum": "DA2ED06B767061A21EA84018493AA854",
