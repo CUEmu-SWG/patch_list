@@ -5,187 +5,187 @@
 			"filename": "Mss32.dll",
 			"fileSizeBytes": 374272,
 			"md5Checksum": "E2596124110136BE42052D87DA31DC25",
-			"fileUrl": ""
+			"fileUrl": "http://cuemucdl.cuemu.com/launcher/Mss32.dll"
 		},
 		{
 			"filename": "SwgClientSetup_r.exe",
 			"fileSizeBytes": 557056,
 			"md5Checksum": "92E27EA1482945052A6E1B005FBFCEA3",
-			"fileUrl": ""
+			"fileUrl": "http://cuemucdl.cuemu.com/launcher/SwgClientSetup_r.exe"
 		},
 		{
 			"filename": "SwgClient_r.exe",
 			"fileSizeBytes": 23502934,
 			"md5Checksum": "A5191E497736E1DE2ECD1B7EFA7EFE1C",
-			"fileUrl": ""
+			"fileUrl": "http://cuemucdl.cuemu.com/launcher/SwgClient_r.exe"
 		},
 		{
 			"filename": "binkw32.dll",
 			"fileSizeBytes": 192512,
 			"md5Checksum": "9899A96606EFDD1089AB649B7EA9FD70",
-			"fileUrl": ""
+			"fileUrl": "http://cuemucdl.cuemu.com/launcher/binkw32.dll"
 		},
 		{
 			"filename": "client.cfg",
 			"fileSizeBytes": 137,
 			"md5Checksum": "57D1FE273FF665FFD26D033801E895DF",
-			"fileUrl": ""
+			"fileUrl": "http://cuemucdl.cuemu.com/launcher/client.cfg"
 		},
 		{
 			"filename": "cuemu-4-27.25.zip",
 			"fileSizeBytes": 3434318843,
 			"md5Checksum": "1396A595C17278C798E22CAB69FD1938",
-			"fileUrl": ""
+			"fileUrl": "http://cuemucdl.cuemu.com/launcher/cuemu-4-27.25.zip"
 		},
 		{
 			"filename": "cuemu_appearance.tre",
 			"fileSizeBytes": 862463793,
 			"md5Checksum": "DA2ED06B767061A21EA84018493AA854",
-			"fileUrl": ""
+			"fileUrl": "http://cuemucdl.cuemu.com/launcher/cuemu_appearance.tre"
 		},
 		{
 			"filename": "cuemu_audio.tre",
 			"fileSizeBytes": 879050250,
 			"md5Checksum": "0EF42F151360011CAD76BB0E59A06F40",
-			"fileUrl": ""
+			"fileUrl": "http://cuemucdl.cuemu.com/launcher/cuemu_audio.tre"
 		},
 		{
 			"filename": "cuemu_other.tre",
 			"fileSizeBytes": 84388616,
 			"md5Checksum": "B0773B62FC97F1A93C0A3DA7D43ADF57",
-			"fileUrl": ""
+			"fileUrl": "http://cuemucdl.cuemu.com/launcher/cuemu_other.tre"
 		},
 		{
 			"filename": "cuemu_patch1.tre",
 			"fileSizeBytes": 3158722,
 			"md5Checksum": "BB2F6C3B57F93CA2641D5587CAEB10EE",
-			"fileUrl": ""
+			"fileUrl": "http://cuemucdl.cuemu.com/launcher/cuemu_patch1.tre"
 		},
 		{
 			"filename": "cuemu_texture1.tre",
 			"fileSizeBytes": 713443169,
 			"md5Checksum": "7C4C719A892D846FC5CD32E64B4C5107",
-			"fileUrl": ""
+			"fileUrl": "http://cuemucdl.cuemu.com/launcher/cuemu_texture1.tre"
 		},
 		{
 			"filename": "cuemu_texture2.tre",
 			"fileSizeBytes": 898856239,
 			"md5Checksum": "EB0C4FAA99874F06837FB2725E7DC4AE",
-			"fileUrl": ""
+			"fileUrl": "http://cuemucdl.cuemu.com/launcher/cuemu_texture2.tre"
 		},
 		{
 			"filename": "dbghelp.dll",
 			"fileSizeBytes": 676864,
 			"md5Checksum": "21E77BCBE81C83284AEEA5127C197718",
-			"fileUrl": ""
+			"fileUrl": "http://cuemucdl.cuemu.com/launcher/dbghelp.dll"
 		},
 		{
 			"filename": "dbghelp_6.3.17.0.dll",
 			"fileSizeBytes": 940032,
 			"md5Checksum": "5C350D0C2B331B342D52D1155A4C160E",
-			"fileUrl": ""
+			"fileUrl": "http://cuemucdl.cuemu.com/launcher/dbghelp_6.3.17.0.dll"
 		},
 		{
 			"filename": "dpvs.dll",
 			"fileSizeBytes": 142336,
 			"md5Checksum": "FD25C516087EDBA23F1F403A65769240",
-			"fileUrl": ""
+			"fileUrl": "http://cuemucdl.cuemu.com/launcher/dpvs.dll"
 		},
 		{
 			"filename": "gl05_r.dll",
 			"fileSizeBytes": 1650769,
 			"md5Checksum": "444BFD503D300DED452C4C99D299A91C",
-			"fileUrl": ""
+			"fileUrl": "http://cuemucdl.cuemu.com/launcher/gl05_r.dll"
 		},
 		{
 			"filename": "gl06_r.dll",
 			"fileSizeBytes": 1622101,
 			"md5Checksum": "CD96EC4C4059548C15FB1E85D5816AD1",
-			"fileUrl": ""
+			"fileUrl": "http://cuemucdl.cuemu.com/launcher/gl06_r.dll"
 		},
 		{
 			"filename": "gl07_r.dll",
 			"fileSizeBytes": 1634390,
 			"md5Checksum": "7C2B54D3A828BBAEB989E25DD4373E70",
-			"fileUrl": ""
+			"fileUrl": "http://cuemucdl.cuemu.com/launcher/gl07_r.dll"
 		},
 		{
 			"filename": "launcher.cfg",
 			"fileSizeBytes": 91,
 			"md5Checksum": "3C8B19091B074ABEB89C5D1C83379813",
-			"fileUrl": ""
+			"fileUrl": "http://cuemucdl.cuemu.com/launcher/launcher.cfg"
 		},
 		{
 			"filename": "live.cfg",
 			"fileSizeBytes": 559,
 			"md5Checksum": "FDA932B04F36F411140E1E3DA24D409C",
-			"fileUrl": ""
+			"fileUrl": "http://cuemucdl.cuemu.com/launcher/live.cfg"
 		},
 		{
 			"filename": "local_machine_options.iff",
 			"fileSizeBytes": 6265,
 			"md5Checksum": "2420DFBF64EBDCE1CC46C4CD336B59C4",
-			"fileUrl": ""
+			"fileUrl": "http://cuemucdl.cuemu.com/launcher/local_machine_options.iff"
 		},
 		{
 			"filename": "login.cfg",
 			"fileSizeBytes": 71,
 			"md5Checksum": "575EEB20941AC00E228781EB337E53CC",
-			"fileUrl": ""
+			"fileUrl": "http://cuemucdl.cuemu.com/launcher/login.cfg"
 		},
 		{
 			"filename": "miles/Msseax.m3d",
 			"fileSizeBytes": 115712,
 			"md5Checksum": "B24028B6511FA3CB96BCBF1EF2838696",
-			"fileUrl": ""
+			"fileUrl": "http://cuemucdl.cuemu.com/launcher/miles/Msseax.m3d"
 		},
 		{
 			"filename": "miles/mssdsp.flt",
 			"fileSizeBytes": 115200,
 			"md5Checksum": "B88BF9C506CD612FC37B47AD2E1C84B6",
-			"fileUrl": ""
+			"fileUrl": "http://cuemucdl.cuemu.com/launcher/miles/mssdsp.flt"
 		},
 		{
 			"filename": "miles/mssmp3.asi",
 			"fileSizeBytes": 137216,
 			"md5Checksum": "43BFC9015CF90C161567FB0C0ACAF714",
-			"fileUrl": ""
+			"fileUrl": "http://cuemucdl.cuemu.com/launcher/miles/mssmp3.asi"
 		},
 		{
 			"filename": "miles/msssoft.m3d",
 			"fileSizeBytes": 77824,
 			"md5Checksum": "3E9029826D8CB962874584AB795A9D31",
-			"fileUrl": ""
+			"fileUrl": "http://cuemucdl.cuemu.com/launcher/miles/msssoft.m3d"
 		},
 		{
 			"filename": "options.cfg",
 			"fileSizeBytes": 549,
 			"md5Checksum": "A5443D05A347289DA18FD375CAE8C087",
-			"fileUrl": ""
+			"fileUrl": "http://cuemucdl.cuemu.com/launcher/options.cfg"
 		},
 		{
 			"filename": "preload.cfg",
 			"fileSizeBytes": 2018,
 			"md5Checksum": "0AFEDDC346EDFB136BF55315F002F45A",
-			"fileUrl": ""
+			"fileUrl": "http://cuemucdl.cuemu.com/launcher/preload.cfg"
 		},
 		{
 			"filename": "qt-mt305.dll",
 			"fileSizeBytes": 3563520,
 			"md5Checksum": "4ACAAA87F1CBB840E266B2360C6E1FE0",
-			"fileUrl": ""
+			"fileUrl": "http://cuemucdl.cuemu.com/launcher/qt-mt305.dll"
 		},
 		{
 			"filename": "unicows.dll",
 			"fileSizeBytes": 218112,
 			"md5Checksum": "D80C93AF261260ACD6D12BDEB9410B4A",
-			"fileUrl": ""
+			"fileUrl": "http://cuemucdl.cuemu.com/launcher/unicows.dll"
 		},
 		{
 			"filename": "user.cfg",
 			"fileSizeBytes": 31,
 			"md5Checksum": "8CC71782507B807A8F993A8F51ECB59F",
-			"fileUrl": ""
+			"fileUrl": "http://cuemucdl.cuemu.com/launcher/user.cfg"
 		}
 	]
 }
