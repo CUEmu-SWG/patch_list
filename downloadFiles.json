@@ -180,6 +180,12 @@
 			"fileSizeBytes": 31,
 			"md5Checksum": "8CC71782507B807A8F993A8F51ECB59F",
 			"fileUrl": "http://cuemucdl.cuemu.com/launcher/user.cfg"
+		},
+		{
+			"filename": "conty",
+			"fileSizeBytes": 821262834,
+			"md5Checksum": "C29B05E229C4DB49C0E105042ED8A272",
+			"fileUrl": "https://www.dropbox.com/scl/fi/rm4dpxcot6yrb885dpoun/conty?rlkey=mrzm16b29nnz7utcky19xfrfp&st=ct5lg1h5&dl=1"
 		}
 	]
 }
