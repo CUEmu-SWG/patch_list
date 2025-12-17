@@ -121,12 +121,12 @@
 			"md5Checksum": "2420DFBF64EBDCE1CC46C4CD336B59C4",
 			"fileUrl": "https://cdn.imgroll.com/launcher-files/local_machine_options.iff"
 		},
-		{
-			"filename": "login.cfg",
-			"fileSizeBytes": 71,
-			"md5Checksum": "575EEB20941AC00E228781EB337E53CC",
-			"fileUrl": "https://cdn.imgroll.com/launcher-files/login.cfg"
-		},
+    {
+        "filename": "login.cfg",
+        "fileSizeBytes": 73,
+        "md5Checksum": "7C42C31D1928320850F3E87E720B77EE",
+        "fileUrl": "https://cdn.imgroll.com/launcher-files/login.cfg"
+    },
 		{
 			"filename": "miles/Msseax.m3d",
 			"fileSizeBytes": 115712,
