@@ -7,12 +7,12 @@
 			"md5Checksum": "E2596124110136BE42052D87DA31DC25",
 			"fileUrl": "https://cdn.imgroll.com/launcher-files/Mss32.dll"
 		},
-		{
-			"filename": "SwgClientSetup_r.exe",
-			"fileSizeBytes": 557056,
-			"md5Checksum": "92E27EA1482945052A6E1B005FBFCEA3",
-			"fileUrl": "https://cdn.imgroll.com/launcher-files/SwgClientSetup_r.exe"
-		},
+    {
+        "filename": "SwgClientSetup_r.exe",
+        "fileSizeBytes": 536576,
+        "md5Checksum": "E3F477CA385D51494052CEDC07434560",
+        "fileUrl": "https://cdn.imgroll.com/launcher-files/SwgClientSetup_r.exe"
+    },
 		{
 			"filename": "SwgClient_r.exe",
 			"fileSizeBytes": 23502934,
