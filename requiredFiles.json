@@ -111,21 +111,6 @@
 			"fileSizeBytes": 676864
 		},
 		{
-			"filename": "default_patch.tre",
-			"md5Checksum": "907194CD54EFD6820C84DB37C47DFE2D",
-			"fileSizeBytes": 60331
-		},
-		{
-			"filename": "patch_00.tre",
-			"md5Checksum": "1517A0A0E7E11C5D1AFC43C1B404A045",
-			"fileSizeBytes": 18779819
-		},
-		{
-			"filename": "patch_01.tre",
-			"md5Checksum": "36FD18E8342B23AE2DF51B916324F348", 
-			"fileSizeBytes": 17757229
-		},
-		{
 			"filename": "qt-mt305.dll",
 			"md5Checksum": "4ACAAA87F1CBB840E266B2360C6E1FE0",
 			"fileSizeBytes": 3563520
