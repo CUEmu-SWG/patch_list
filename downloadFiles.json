@@ -181,11 +181,11 @@
 			"md5Checksum": "8CC71782507B807A8F993A8F51ECB59F",
 			"fileUrl": "https://cdn.imgroll.com/launcher-files/user.cfg"
 		},
-		{
-			"filename": "conty",
-			"fileSizeBytes": 821262834,
-			"md5Checksum": "C29B05E229C4DB49C0E105042ED8A272",
-			"fileUrl": "https://cdn.imgroll.com/launcher-files/conty"
-		}
+        {
+            "filename": "conty",
+            "fileSizeBytes": 1254269375,
+            "md5Checksum": "48CD4DD342C17D8D289471AE3293D205",
+            "fileUrl": "https://cdn.imgroll.com/launcher-files/conty"
+        }
 	]
 }
