@@ -50,11 +50,11 @@
 			"fileUrl": "https://cdn.imgroll.com/launcher-files/cuemu_other.tre"
 		},
 		{
-			"filename": "cuemu_patch1.tre",
-			"fileSizeBytes": 3158722,
-			"md5Checksum": "BB2F6C3B57F93CA2641D5587CAEB10EE",
-			"fileUrl": "https://cdn.imgroll.com/launcher-files/cuemu_patch1.tre"
-		},
+	    "filename": "cuemu_patch1.tre",
+	    "fileSizeBytes": 3159998,
+	    "md5Checksum": "AEF1EC36F0A96681F33A8D872E6496D1",
+      "fileUrl": "https://cdn.imgroll.com/launcher-files/cuemu_patch1.tre"
+    },
 		{
 			"filename": "cuemu_texture1.tre",
 			"fileSizeBytes": 713443169,
