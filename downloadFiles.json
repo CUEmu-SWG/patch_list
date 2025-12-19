@@ -104,11 +104,11 @@
 			"fileUrl": "https://cdn.imgroll.com/launcher-files/gl07_r.dll"
 		},
 		{
-			"filename": "launcher.cfg",
-			"fileSizeBytes": 91,
-			"md5Checksum": "3C8B19091B074ABEB89C5D1C83379813",
-			"fileUrl": "https://cdn.imgroll.com/launcher-files/launcher.cfg"
-		},
+        "filename": "launcher.cfg",
+        "fileSizeBytes": 38,
+        "md5Checksum": "B3BB09EA04720CD4B725F0AE16F0BFBD",
+        "fileUrl": "https://cdn.imgroll.com/launcher-files/launcher.cfg"
+    },
 		{
 			"filename": "live.cfg",
 			"fileSizeBytes": 559,
