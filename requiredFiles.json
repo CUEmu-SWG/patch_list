@@ -104,16 +104,6 @@
 			"filename": "data_texture_07.tre",
 			"md5Checksum": "C77F34FFA2C15663679F1AA86C43A3D5",
 			"fileSizeBytes": 66226334
-		},
-		{
-			"filename": "dbghelp.dll",
-			"md5Checksum": "21E77BCBE81C83284AEEA5127C197718",
-			"fileSizeBytes": 676864
-		},
-		{
-			"filename": "qt-mt305.dll",
-			"md5Checksum": "4ACAAA87F1CBB840E266B2360C6E1FE0",
-			"fileSizeBytes": 3563520
 		}
 	]
 }
