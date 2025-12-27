@@ -181,11 +181,29 @@
 			"md5Checksum": "8CC71782507B807A8F993A8F51ECB59F",
 			"fileUrl": "https://cdn.imgroll.com/launcher-files/user.cfg"
 		},
-        {
-            "filename": "conty",
-            "fileSizeBytes": 1254269375,
-            "md5Checksum": "48CD4DD342C17D8D289471AE3293D205",
-            "fileUrl": "https://cdn.imgroll.com/launcher-files/conty"
-        }
+    {
+        "filename": "conty",
+        "fileSizeBytes": 1254269375,
+        "md5Checksum": "48CD4DD342C17D8D289471AE3293D205",
+        "fileUrl": "https://cdn.imgroll.com/launcher-files/conty"
+    },
+    {
+        "filename": "string/en/live_motd.stf",
+        "fileSizeBytes": 1191,
+        "md5Checksum": "61103CB84370ED05B3442172FD0C031D",
+        "fileUrl": "https://cdn.imgroll.com/launcher-files/string/en/live_motd.stf"
+    },
+    {
+        "filename": "texture/loading/space/images/space_load_escapepod.dds",
+        "fileSizeBytes": 262272,
+        "md5Checksum": "1739F4B6EC503AD9B26FFB36E747FFED",
+        "fileUrl": "https://cdn.imgroll.com/launcher-files/texture/loading/space/images/space_load_escapepod.dds"
+    },
+    {
+        "filename": "texture/ui_logo_lucas.dds",
+        "fileSizeBytes": 131200,
+        "md5Checksum": "89C5D7ADE9EE017EFF6ABB68DD3CDA5C",
+        "fileUrl": "https://cdn.imgroll.com/launcher-files/texture/ui_logo_lucas.dds"
+    }
 	]
 }
